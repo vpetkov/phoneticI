@@ -5,10 +5,10 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.bulgarian- phonetici</string>
 	<key>CFBundleName</key>
-	<string>Bulgarian - PhoneticI</string>
+	<string>Bulgarian - Phonetica</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-	<key>KLInfo_Bulgarian - PhoneticI</key>
+	<key>KLInfo_Bulgarian - Phonetica</key>
 	<dict>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.bulgarian- phonetici.bulgarian- phonetici</string>
